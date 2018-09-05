@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        react
+        cmd+opt+i and open console tab
       </div>
     );
   }
